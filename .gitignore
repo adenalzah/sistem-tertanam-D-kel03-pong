@@ -1,0 +1,10 @@
+# Hasil build (dibuat ulang dengan make / Vivado)
+build/
+.Xil/
+*.jou
+*.log
+*.str
+screenshot.ppm
+
+# Simpan file berikut di release/ untuk pengumpulan:
+#   release/rv32_game.bit, release/utilization.txt, release/timing_summary.txt
